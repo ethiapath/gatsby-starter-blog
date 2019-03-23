@@ -2,6 +2,8 @@
 # Building a beautiful web C runner with WebAssembly
 
 
+### This project recap is in progress
+It's more of a planing and draft document
 
 ### Todos
 
