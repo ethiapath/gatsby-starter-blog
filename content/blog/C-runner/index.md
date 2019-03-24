@@ -1,5 +1,8 @@
-
-# Building a beautiful web C runner with WebAssembly
+---
+title: Building a beautiful web C runner with WebAssembly
+date: "2019-03-24T15:17:32.169Z"
+description: Quckily run c programs in the browser Webassembly 
+---
 
 
 ### This project recap is in progress
@@ -22,3 +25,6 @@ The main thing that would make this make this a success would be able to have th
 So I'd be able to have directory with my projects and let anybody run them and see the output.
 
 So having compile in browser would be cool
+
+
+
