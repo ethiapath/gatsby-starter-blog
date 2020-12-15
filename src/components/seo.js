@@ -77,7 +77,9 @@ function SEO({ description, lang, meta, keywords, title }) {
             : []
         )
         .concat(meta)}
-    />
+    >
+    <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "5473da7fe61c4fa4a4acbf4deb76fa06"}'></script>
+    </Helmet>
   )
 }
 
